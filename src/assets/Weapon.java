@@ -1,8 +1,8 @@
 package assets;
 
-public class Card {
+public class Weapon extends BotPart {
 
-	public Card() {
+	public Weapon() {
 		// TODO Auto-generated constructor stub
 	}
 
